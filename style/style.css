@@ -150,7 +150,7 @@ body{
 	position: absolute;
 	bottom: 30px;
 }
-.section-4-block-text .span{
+.section-4-block-text span{
 	text-transform: none;
 	font-size: 22px;
 	font-weight: 700;
@@ -162,8 +162,7 @@ body{
 }
 .section-4-block:hover{
 	background: #004c89;
-	color:#fff
-	;
+	color:#fff;
 
 }
 .section-3{
