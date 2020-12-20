@@ -1,0 +1,251 @@
+body{
+	text-transform: uppercase;	
+}
+.section-1{
+	padding-right: 110px;
+	padding-left: 110px;
+	background-image: url(../img/sec-1-bg.png);
+	background-size: cover;
+}
+.section-header{
+	margin-bottom: 250px;
+}
+.section-1-header-logo-1{
+	margin-right: 26px;
+	display: block;
+	margin-top: 25px;
+}
+.section-1-header-logo-2{
+	display: block;
+	width: 100%;
+	margin-top: 40px;
+}
+.section-1-header-blocks{
+	margin-left: 70px;
+}
+.section-1-header-block{
+	margin-right: 50px;
+	display: inline-block;
+}
+.section-1-header-a-lit{
+	display: block;
+	font-size: 12px;
+	margin-bottom: 50px;
+	margin-top: 30px;
+	font-weight: 600;
+	color: #fff;
+}
+.section-1-header-a-big{
+	font-size: 20px;
+	font-weight: 700;
+	color: #fff;
+}
+.section-1-header-searchimg{
+	width: 17px;
+}
+.section-1-header-lang{
+	display: block;
+	margin-bottom: 50px;
+	margin-top: 30px;
+	text-align: center;
+	font-size: 14px;
+	font-weight: 600;
+	color:#fff;
+}
+.section-1-header-search{
+	text-align: center; 
+	display: block; 	
+}
+.section-2{
+	padding-right: 160px;
+}
+.section-2-img{
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-left: 160px;
+	padding-top: 215px;
+	padding-bottom: 185px;
+	background-image: url(../img/gover-bg.png);
+	background-size: 100%;
+	margin-bottom: 70px;
+}
+.section-2-img img{
+	width: 100%;
+}
+.section-2-block{
+	margin-top: 110px;
+	width: 100%;
+}
+.section-2-block-title{
+	color: #004c89;
+	font-size: 50px;
+	text-transform: none;
+	margin-left: 60px;
+	font-weight: 700;
+}
+.section-2-block-img-1{
+	float: left;
+}
+.section-2-block-img-2{
+	float:right;
+}
+.section-2-block-text{
+	margin-top: 70px;
+	margin-left: 60px;
+	margin-right: 60px;
+	font-size: 12px;
+	font-weight: 500;
+	text-transform: none;
+}
+.section-2-gover-name{
+	margin-top: 15px;
+	color: #004c89;
+	font-size: 35px;
+	text-transform: none;
+	font-weight: 700;
+	margin-bottom:0px;
+}
+.section-2-gover-type{
+	font-size:14px;
+	font-weight: 500;
+	text-transform: none;
+	margin-left: 5px;
+}
+.section-2-gover{
+	float: right;
+	margin-top: 70px;
+	margin-bottom: 100px;
+}
+.section-4{
+	padding-top: 115px;
+	padding-left: 145px;
+	padding-right: 145px;
+	background-image: url(../img/sec-4-bg.png);
+	background-size: cover;
+}
+.section-4-title{
+	margin-bottom: 120px;
+	font-size: 60px;
+	font-weight: 700;
+	text-align: center;
+	color: #004c89;
+}
+.section-4-block{
+	background: #fff;
+	border-radius: 5px;
+	padding-right: 15px;
+	padding-left: 15px;
+	height: 170px;
+	margin-bottom: 25px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.seection-4-block-content{
+	margin-bottom: 5px;
+}
+.section-4-block-text{
+	text-transform: none;
+	margin-bottom: 5px;
+	font-weight: 500;
+	position: absolute;
+	bottom: 30px;
+}
+.section-4-block-text span{
+	text-transform: none;
+	font-size: 22px;
+	font-weight: 700;
+	color: #004c89;	
+}
+.section-4-block-img{
+	float:right;
+	height: 170px;
+}
+.section-3{
+	padding-right: 240px;
+	padding-left: 240px;
+	background-image: url(../img/sec-3-bg.png);
+	background-size:cover;
+	padding-top: 70px;
+	padding-bottom: 120px;
+}
+.section-3-title-number{
+	font-size: 320px;
+	font-weight: 700;
+	color: #004c89;	
+	line-height: 220px;
+	text-align: right;
+}
+.section-3-title-text{
+	font-size: 54px;
+	font-weight: 700;
+	color: #004c89;	 
+}
+.section-1-slider-title{
+	font-size: 40px;
+	font-weight: 700;
+
+}
+.section-0{
+	height: 790px;
+
+	border: 5px solid #004c89;
+}
+
+
+.vertical-slider{
+	font-size: 54px;
+	font-weight: 700;
+	color: #004c89;
+	}
+
+.section-6{
+	height: 600px;
+	border: 5px solid #004c89;
+}
+.slider-with-numbers{
+  	font-size: 54px;
+	font-weight: 700;
+	color: #004c89;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .swiper-slide {
+      text-align: center;
+      font-size: 18px;
+
+      /* Center slide text vertically */
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -ms-flex-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      -webkit-align-items: center;
+      align-items: center;
+    }
